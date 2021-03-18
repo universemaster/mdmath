@@ -1,0 +1,10 @@
+img
+.github
+.gitignore
+.vscode
+out/
+src/
+tsconfig.json
+webpack.config.js
+universe-mdmath-2.5.1.vsix
+node_modules
